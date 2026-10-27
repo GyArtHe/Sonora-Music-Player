@@ -97,7 +97,7 @@
 ### Сборка
 
 ```bash
-git clone https://github.com/<username>/Sonora.git
+git clone https://github.com/GyArtHe/Sonora-Music-Player.git
 cd Sonora
 
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
