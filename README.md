@@ -44,7 +44,7 @@
 
 ## 📸 Скриншоты
 
-<!-- TODO: положите картинки в docs/screenshots/ с указанными именами -->
+<!-- TODO: положите картинки в docs/screenshots/image1.png с указанными именами -->
 
 <p align="center">
   <img src="docs/screenshots/main-window.png" width="820" alt="Главное окно Sonora"/>
