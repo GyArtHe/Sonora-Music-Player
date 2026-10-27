@@ -51,21 +51,21 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/playlists.png" alt="Плейлисты"/>
+      <img src="docs/screenshots/image2.png" alt="Плейлисты"/>
       <p align="center"><i>Плейлисты и «Избранное»</i></p>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/settings.png" alt="Настройки"/>
+      <img src="docs/screenshots/image3.png" alt="Настройки"/>
       <p align="center"><i>Настройки: эквалайзер, громкость, лицензии</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/editor.png" alt="Редактор трека"/>
+      <img src="docs/screenshots/image4.png" alt="Редактор трека"/>
       <p align="center"><i>Редактор трека: название, исполнитель, обложка</i></p>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/cover.png" alt="Обложка"/>
+      <img src="docs/screenshots/image5.png" alt="Обложка"/>
       <p align="center"><i>Плеер с обложкой из тегов</i></p>
     </td>
   </tr>
